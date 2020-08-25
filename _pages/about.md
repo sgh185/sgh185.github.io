@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+---
+
 I'm an undergraduate pursuing a bachelor’s degree in CS at 
 Northwestern University. At my time at NU, I've primarily focused my 
 studies on computer systems, and I've worked as an undergraduate
 researcher and teaching assistant at NU's Department of Computer Science. 
 
-My research interests lie in compilers, code-analyses and
+My research interests lie in compilers, code analyses and
 transformations, operating systems, and new technologies at the 
 intersection of different layers of the computer systems stack 
 --- "blending".  

@@ -9,13 +9,24 @@ author_profile: true
 
 ---
 
-### Compiler-Timing
+## Compiler-Timing
 
-### Noelle
+**In collaboration with:** Prescience Lab, NU Compilers Group, Carnegie Melon, NU Parallel Architecture Group
 
-### Floating-Point Spy (FPSpy), Floating-Point Virtual Machine (FPVM)
+## Noelle
 
-### CARAT
+**In collaboration with:** NU Compilers Group 
 
-### TimeSqueezer
+## Floating-Point Spy (FPSpy), Floating-Point Virtual Machine (FPVM)
+
+**In collaboration with:** Prescience Lab 
+
+## CARAT
+
+**In collaboration with:** Prescience Lab, NU Compilers Group, NU Parallel Architecture Group
+
+## TimeSqueezer
+
+**In collaboration with:** NU Compilers Group, NU TimeSqueezing Group 
+
 
