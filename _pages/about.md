@@ -13,9 +13,10 @@ Northwestern University. At my time at NU, I've primarily focused my
 studies on computer systems, and I've worked as an undergraduate
 researcher and teaching assistant at NU's Department of Computer Science. 
 
-My research interests lie in compilers, operating systems, and new 
-technologies at the intersection of different layers of the computer 
-systems stack --- "blending".  
+My research interests lie in compilers, code-analyses and
+transformations, operating systems, and new technologies at the 
+intersection of different layers of the computer systems stack 
+--- "blending".  
 
 I have made contributions to long-term research projects such as 
 the [Interweaving Project](http://interweaving.org/) and the 
@@ -26,4 +27,5 @@ Compilers Group](https://users.cs.northwestern.edu/~simonec/Team.html#Collaborat
 Group, and the NU TimeSqueezing Group. I currently work closely
 with Professor [Peter Dinda](http://pdinda.org/) and Professor
 [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/) on
-research directions involving compilers and OSes. 
+research directions involving middle-end compiler optimizations
+and operating systems. 
