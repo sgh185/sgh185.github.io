@@ -11,9 +11,9 @@ title                    : "Souradip Ghosh"
 title_separator          : "-"
 name                     : &name "Souradip Ghosh"
 description              : &description "Undergraduate Researcher at NU"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sgh185.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sgh185/sgh185.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Souradip Ghosh"
   avatar           : "profile.png"
-  bio              : 
+  bio              : "Undergraduate Reseacher at NU"
   location         : "St. Louis, Missouri"
-  employer         :
+  employer         : "Northwestern University"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "sgh@u.northwestern.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sghosh16/"
   orcid            : 
   pinterest        :
   soundcloud       :
