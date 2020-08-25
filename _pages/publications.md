@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+---
+
 ## Publications
 
 - **Souradip Ghosh**, Michael Cuevas, Peter Dinda, Simone Campanoni. 
