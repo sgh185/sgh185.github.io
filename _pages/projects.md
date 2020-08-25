@@ -5,12 +5,27 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Research 
+
+### Compiler-Timing
+
+### Noelle
+
+### Floating-Point Spy (FPSpy), Floating-Point Virtual Machine (FPVM)
+
+### CARAT
+
+### TimeSqueezer
+
+## Course Projects 
+
+### CS 446: Kernel and Low Level Software Development
+
+### CS 323: Code Analysis and Transformation
+
+### CS 322: Compiler Construction 
+
+### CS 450: Internet Security
+
