@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Souradip Ghosh"
 title_separator          : "-"
 name                     : &name "Souradip Ghosh"
-description              : &description "Undergraduate Researcher at Northwestern University"
+description              : &description "Undergraduate at Northwestern University"
 url                      : https://sgh185.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sgh185/sghosh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Souradip Ghosh"
   avatar           : "profile.png"
-  bio              : "Undergraduate Reseacher at Northwestern University"
+  bio              : "Undergraduate at Northwestern University"
   location         : "St. Louis, Missouri"
   employer         : "Northwestern University"
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "sghosh16" 
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -198,10 +198,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _projects
+  # _research
   - scope:
       path: ""
-      type: projects 
+      type: research 
     values:
       layout: single
       author_profile: true
