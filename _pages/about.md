@@ -25,7 +25,7 @@ also an active member of several research groups including the [NU
 Compilers Group](https://users.cs.northwestern.edu/~simonec/Team.html#Collaboration),
 [NU’s Prescience Lab](http://www.presciencelab.org/), the NU Parallelism 
 Group, and the NU TimeSqueezing Group. I currently work closely
-with Professor [Peter Dinda](http://pdinda.org/) and Professor
+with Professors [Peter Dinda](http://pdinda.org/) and 
 [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/) on
 research directions involving middle-end compiler optimizations
 and operating systems. 
