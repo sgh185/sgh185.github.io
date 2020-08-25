@@ -18,9 +18,9 @@ technologies at the intersection of different layers of the computer
 systems stack --- "blending". 
 
 As an undergraduate researcher, I've made contributions to long-term 
-research projects at Northwestern such as the [Interweaving Project](http://interweaving.org/)
+research projects such as the [Interweaving Project](http://interweaving.org/)
 and the [Nautilus Aerokernel](https://hale-legacy.com/nautilus/). I'm 
-is also an active member of several research groups including the [NU 
+also an active member of several research groups including the [NU 
 Compilers Group](https://users.cs.northwestern.edu/~simonec/Team.html#Collaboration),
 [NU’s Prescience Lab](http://www.presciencelab.org/), the NU Parallelism 
 Group, and the NU TimeSqueezing Group. 
