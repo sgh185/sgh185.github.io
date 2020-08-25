@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Souradip Ghosh"
 title_separator          : "-"
 name                     : &name "Souradip Ghosh"
-description              : &description "Undergraduate Researcher at NU"
+description              : &description "Undergraduate Researcher at Northwestern University"
 url                      : https://sgh185.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sgh185/sghosh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Souradip Ghosh"
   avatar           : "profile.png"
-  bio              : "Undergraduate Reseacher at NU"
+  bio              : "Undergraduate Reseacher at Northwestern University"
   location         : "St. Louis, Missouri"
   employer         : "Northwestern University"
   pubmed           : 
@@ -191,17 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -209,41 +198,24 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _projects
   - scope:
       path: ""
-      type: teaching
+      type: projects 
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _miscellaneous
   - scope:
       path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
+      type: miscellaneous
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
