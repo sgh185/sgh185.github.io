@@ -18,7 +18,7 @@ author_profile: true
 ## Talks and Presentations
 
 - “Compiler-based Timing For Extremely Fine-grain Preemptive Parallelism”
-(November '20, <em>to appear</em>).
+(SC --- November '20, <em>to appear</em>).
 
 - "KARAT --- Kernel-Based CARAT" (Kernel and Low Level Development, CS 
 446 --- June '20). [Slides](https://souradipghosh.com/files/karat.pdf).
