@@ -23,12 +23,12 @@ outside of the world of CS research.
 - **Teaching Assistant/Peer Mentor**, CS 343 --- Operating Systems (Winter
 Quarter '20)
 
-- **Teaching Assistant/Peer Mentor**, CS 323 --- Code Analyses and Transformations
+- **Teaching Assistant/Peer Mentor**, CS 323 --- Code Analysis and Transformation
 (Fall Quarter '20)
 
 - **Private Tutor**, any subject/standardized testing (Jun '16 --- Present) 
 
-## Miscellaneous Experience at NU and Elsewhere 
+## Miscellaneous Positions at NU and Elsewhere 
 
 - **Lead Developer**, Karen Lynn + Associates Inc. --- Evanston, IL (Nov '18 --- Present) 
 
@@ -41,3 +41,16 @@ IL (Mar '19 --- Jun '19)
 - **Academic Coach**, NU School of Education and Social Policy --- Evanston, 
 IL (Oct '17 --- Jun '19)
  
+## Course Projects
+
+- **Endpoint Detection and Response System for Linux**, CS 450 --- Internet Security
+(Winter Quarter '20)
+
+- **Custom Compiler for Near C-Based Language**, CS 322 --- Compiler Construction
+(Winter Quarter '20)
+
+- **Custom CAT for C-Based API**, CS 323 --- Code Analysis and Transformation (Spring
+'19)
+
+- **Harvest --- Behavior Change Web Application**, CS 330 --- Human Computer Interaction
+(Winter Quarter '19)
