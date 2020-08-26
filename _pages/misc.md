@@ -16,15 +16,15 @@ outside of the world of CS research.
 
 - 2X **NSF REU Fellowship Recipient** ('19, '20)
 
-- 5X **Dean's List** --- Northwestern University ('17 - '20)
+- 5X **Dean's List** --- Northwestern University ('17 --- '20)
 
 ## Teaching 
 
 - **Teaching Assistant/Peer Mentor**, CS 343 --- Operating Systems (Winter
-Quarter '20)
+'20)
 
 - **Teaching Assistant/Peer Mentor**, CS 323 --- Code Analysis and Transformation
-(Fall Quarter '20)
+(Fall '20)
 
 - **Private Tutor**, any subject/standardized testing (Jun '16 --- Present) 
 
@@ -44,13 +44,12 @@ IL (Oct '17 --- Jun '19)
 ## Course Projects
 
 - **Endpoint Detection and Response System for Linux**, CS 450 --- Internet Security
-(Winter Quarter '20)
+(Winter '20)
 
 - **Custom Compiler for Near C-Based Language**, CS 322 --- Compiler Construction
-(Winter Quarter '20)
+(Winter '20)
 
-- **Custom CAT for C-Based API**, CS 323 --- Code Analysis and Transformation (Spring
-'19)
+- **Custom CAT for C-Based API**, CS 323 --- Code Analysis and Transformation (Spring '19)
 
 - **Harvest --- Behavior Change Web Application**, CS 330 --- Human Computer Interaction
-(Winter Quarter '19)
+(Winter '19)
