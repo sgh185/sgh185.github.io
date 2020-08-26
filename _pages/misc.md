@@ -9,9 +9,12 @@ author_profile: true
 
 ---
 
+The following are my miscellaneous academic and professional experiences 
+outside of the world of computer science research.
+
 ## Teaching 
 
-- **Teaching Assistant/Peer Mentor**, CS 343 --- Operating Systems, (Winter
+- **Teaching Assistant/Peer Mentor**, CS 343 --- Operating Systems (Winter
 Quarter '20)
 
 - **Teaching Assistant/Peer Mentor**, CS 323 --- Code Analyses and Transformations
