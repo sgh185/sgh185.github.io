@@ -33,7 +33,7 @@ The following are projects in this research direction that I've contributed to:
   preemptive scheduling at a very fine-grain and allows the possibility
   to extract parallelism at a fine granularity. The original framework 
   was written using a LLVM compiler transform and a kernel runtime.
-  (See [paper](https://souradipghosh.com/pubs-talks/).
+  (See [paper](https://souradipghosh.com/pubs-talks/)).
  
   I am currently developing a version of compiler-timing for user-space
   to drive a variety of systems using compiler-injected callbacks
@@ -44,7 +44,7 @@ The following are projects in this research direction that I've contributed to:
   of Technology's [HExSA Lab](http://cs.iit.edu/~khale/lab/index.html), Carnegie Melon, 
   NU Parallel Architecture Group
 
-- Floating-Point Virtual Machine (**FPVM**)
+- **Floating-Point Virtual Machine** (FPVM)
 
   We are expanding on work done to record the floating-point behavior
   of scientific applications ([FPSpy](http://pdinda.org/Papers/hpdc20.pdf)) by tracking and correcting 
@@ -56,7 +56,7 @@ The following are projects in this research direction that I've contributed to:
  
   **In collaboration with:** Prescience Lab 
 
-- Compiler and Runtime-Based Address Translation (**CARAT**)
+- **Compiler and Runtime-Based Address Translation** (CARAT)
 
   We are building on [CARAT](http://pdinda.org/Papers/pldi20.pdf), a novel framework to replace virtual 
   memory with a software implementation consisting of compiler transforms
