@@ -98,10 +98,10 @@ The following are projects in this research direction that I've contributed to:
 
 - **TimeSqueezer**
 
-  We are expanding upon the [TimeSqueezer]() stack to further explore
-  energy savings and efficiency with a novel hardware-software co-design
-  aimed at automatically reducing the amount of memory used by instruction
-  operands. 
+  We are expanding upon the [TimeSqueezer](https://users.cs.northwestern.edu/~simonec/files/Research/papers/RES_ISCA_2019.pdf)
+  stack to further explore energy savings and efficiency with a novel 
+  hardware-software co-design aimed at automatically reducing the 
+  amount of memory used by instruction operands. 
 
   My research contributions include designing and building middle-end 
   code analyses and transformations for this new approach.  
