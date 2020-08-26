@@ -33,11 +33,11 @@ Quarter '20)
 - **Lead Developer**, Karen Lynn + Associates Inc. --- Evanston, IL (Nov '18 --- Present) 
 
 - **Front-End Developer**, Lurie Medical Research Center, Feinberg School of 
-Medicine, Northwestern University --- Chicago, IL (Mar '19 --- Present)
+Medicine --- Chicago, IL (Mar '19 --- Present)
 
-- **Public Computing Aide**, Kellogg School of Management, Northwestern 
-University --- Evanston, IL (Mar '19 --- Jun '19)
+- **Public Computing Aide**, Kellogg School of Management --- Evanston, 
+IL (Mar '19 --- Jun '19)
 
-- **Academic Coach**, School of Education and Social Policy, Northwestern
-University --- Evnaston, IL (Oct '17 --- Jun '19)
+- **Academic Coach**, NU School of Education and Social Policy --- Evanston, 
+IL (Oct '17 --- Jun '19)
  
