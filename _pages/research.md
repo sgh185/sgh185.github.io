@@ -41,7 +41,7 @@ The following are projects in this research direction that I've contributed to:
   new techniques to analyze performance of address translation). 
  
   **In collaboration with:** Prescience Lab, NU Compilers Group, Illinois Institute 
-  of Technology's [HExSA Lab](http://cs.iit.edu/~khale/lab/index.html), Carnegie Melon, 
+  of Technology's [HExSA Lab](http://cs.iit.edu/~khale/lab/index.html), Carnegie Mellon, 
   NU Parallel Architecture Group
 
 - **Floating-Point Virtual Machine** (FPVM)
