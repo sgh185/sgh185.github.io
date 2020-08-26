@@ -10,7 +10,13 @@ author_profile: true
 ---
 
 The following are my miscellaneous academic and professional experiences 
-outside of the world of computer science research.
+outside of the world of CS research.
+
+## Recognitions
+
+- 2X **NSF REU Fellowship Recipient** ('19, '20)
+
+- 5X **Dean's List** --- Northwestern University ('17 - '20)
 
 ## Teaching 
 
