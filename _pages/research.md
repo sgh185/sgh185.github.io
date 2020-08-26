@@ -35,13 +35,14 @@ The following are projects in this research direction that I've contributed to:
   was written using a LLVM compiler transform and a kernel runtime.
   (See [paper](https://souradipghosh.com/pubs-talks/).
  
-  We are currently developing a version of compiler-timing for user-space
+  I am currently developing a version of compiler-timing for user-space
   to drive a variety of systems using compiler-injected callbacks
   ([heartbeat scheduling](http://www.andrew.cmu.edu/user/mrainey//heartbeat/heartbeat.html),
   new techniques to analyze performance of address translation). 
  
   **In collaboration with:** Prescience Lab, NU Compilers Group, Illinois Institute 
-  of Technology, Carnegie Melon, NU Parallel Architecture Group
+  of Technology's [HExSA Lab](http://cs.iit.edu/~khale/lab/index.html), Carnegie Melon, 
+  NU Parallel Architecture Group
 
 - Floating-Point Virtual Machine (**FPVM**)
 
@@ -79,12 +80,30 @@ The following are projects in this research direction that I've contributed to:
  
 - **Noelle**
 
-  **In collaboration with:** NU Compilers Group 
+  We have built Noelle as a middle-end compiler layer designed on top 
+  of LLVM to provide new abstractions and parallelizing capabilities 
+  to give developers the tools to build advanced code analyses and 
+  transformations with just a few lines of code.  
+
+  My research contributions include investigating and developing 
+  compiler "enablers" to assist Noelle's parallelization capabilities 
+  and designing and building an instruction scheduler engine for 
+  users to utilize --- whether it be to parallelize code or apply 
+  to custom analyses and transformations. 
+  
+  See some of our [progress](https://users.cs.northwestern.edu/~simonec/Software.html).
+
+  **In collaboration with:** NU Compilers Group, Princeton's [Liberty
+  Research Group](https://liberty.princeton.edu/) 
 
 - **TimeSqueezer**
 
+  We are expanding upon the [TimeSqueezer]() stack to further explore
+  energy savings and efficiency with a novel hardware-software co-design
+  aimed at automatically reducing the amount of memory used by instruction
+  operands. 
+
+  My research contributions include designing and building middle-end 
+  code analyses and transformations for this new approach.  
+
   **In collaboration with:** NU Compilers Group, NU TimeSqueezing Group 
-
-
-
-
