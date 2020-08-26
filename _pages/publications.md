@@ -24,7 +24,7 @@ author_profile: true
 446 --- June '20). [Slides](https://souradipghosh.com/files/karat.pdf).
 [Video](https://drive.google.com/file/d/1RpT4eT4N1ce9zgShi7CmNElVqgHG_El0/view?usp=sharing).
 
-- "An Efficient and Accurate Endpoint and Detection System for Linux"
+- "An Efficient and Accurate Endpoint Detection and Response System for Linux"
 (Internet Security, CS 450 --- March '20). [Slides](https://souradipghosh.com/files/edr.pdf).
 
 - "Prospects For Soft Timing Guarantees In the Nautilus Aerokernel" (NU 
