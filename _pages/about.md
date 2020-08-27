@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 I'm an undergraduate pursuing a bachelor’s degree in CS at 
-Northwestern University. At my time at NU, I've primarily focused my 
+Northwestern University. During my time at NU, I've primarily focused my 
 studies on computer systems, and I've worked as an undergraduate
 researcher and teaching assistant at NU's Department of Computer Science. 
 
