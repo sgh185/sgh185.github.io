@@ -30,7 +30,8 @@ outside of the world of CS research.
 
 ## Miscellaneous Positions at NU and Elsewhere 
 
-- **Lead Developer**, Karen Lynn + Associates Inc. --- Evanston, IL (Nov '18 --- Present) 
+- **Lead Developer**, Karen Lynn + Associates Inc. --- Evanston, IL (Nov '18 --- Present). Find
+us [here](https://klabeautyllc.com) as KLA Beauty LLC. Other products: [KLA's portfolio](https://karenlynnmakeup.com).  
 
 - **Front-End Developer**, Lurie Medical Research Center, Feinberg School of 
 Medicine --- Chicago, IL (Mar '19 --- Present)
