@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## "Blended Systems" --- the Interweaving Project
+## "Blending" --- the Interweaving Project
 The numerous pieces of a computer systems stack (the compiler, the OS, the 
 architecture, etc.) are usually considered as separate entities. What if 
 these entities weren't strictly separated --- what if these pieces were
