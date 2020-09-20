@@ -18,17 +18,7 @@ outside of the world of CS research.
 
 - 5X **Dean's List** --- Northwestern University ('17 --- '20)
 
-## Teaching 
-
-- **Teaching Assistant/Peer Mentor**, CS 343 --- Operating Systems (Winter
-'20)
-
-- **Teaching Assistant/Peer Mentor**, CS 323 --- Code Analysis and Transformation
-(Fall '20)
-
-- **Private Tutor**, any subject/standardized testing (Jun '16 --- Present) 
-
-## Miscellaneous Positions at NU and Elsewhere 
+## Miscellaneous Professional Experience 
 
 - **Lead Developer**, Karen Lynn + Associates Inc. --- Evanston, IL (Nov '18 --- Present). Find
 us [here](https://klabeautyllc.com). Other products: [KLA's portfolio](https://karenlynnmakeup.com).  
@@ -39,18 +29,30 @@ Medicine --- Chicago, IL (Mar '19 --- Present)
 - **Public Computing Aide**, Kellogg School of Management --- Evanston, 
 IL (Mar '19 --- Jun '19)
 
+## Teaching Experience
+
+- **Teaching Assistant/Peer Mentor**, CS 343 --- Operating Systems (Winter
+'20)
+
+- **Teaching Assistant/Peer Mentor**, CS 323 --- Code Analysis and Transformation
+(Fall '20)
+
 - **Academic Coach**, NU School of Education and Social Policy --- Evanston, 
 IL (Oct '17 --- Jun '19)
- 
+
+- **Private Tutor**, any subject/standardized testing (Jun '16 --- Present) 
+
 ## Course Projects
 
-- **Endpoint Detection and Response System for Linux**, CS 450 --- Internet Security
-(Winter '20)
+- **Custom CAT for C-Based API**, CS 323 --- Code Analysis and Transformation (Spring '19)
 
 - **Custom Compiler for Near C-Based Language**, CS 322 --- Compiler Construction
 (Winter '20)
 
-- **Custom CAT for C-Based API**, CS 323 --- Code Analysis and Transformation (Spring '19)
+- **Endpoint Detection and Response System for Linux**, CS 450 --- Internet Security
+(Winter '20)
+
+- **News Search Engine**, CS 396 --- Scalable Software Architectures (Spring '20)
 
 - **Harvest --- Behavior Change Web Application**, CS 330 --- Human Computer Interaction
 (Winter '19)
