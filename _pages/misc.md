@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 The following are my miscellaneous academic and professional experiences 
-outside of the world of CS research.
+outside of CS research.
 
 ## Recognitions
 
@@ -18,7 +18,7 @@ outside of the world of CS research.
 
 - 5X **Dean's List** --- Northwestern University ('17 --- '20)
 
-## Miscellaneous Professional Experience 
+## Miscellaneous Positions 
 
 - **Lead Developer**, Karen Lynn + Associates Inc. --- Evanston, IL (Nov '18 --- Present). Find
 us [here](https://klabeautyllc.com). Other products: [KLA's portfolio](https://karenlynnmakeup.com).  
@@ -29,7 +29,7 @@ Medicine --- Chicago, IL (Mar '19 --- Present)
 - **Public Computing Aide**, Kellogg School of Management --- Evanston, 
 IL (Mar '19 --- Jun '19)
 
-## Teaching Experience
+## Miscellaneous Teaching
 
 - **Teaching Assistant/Peer Mentor**, CS 343 --- Operating Systems (Winter
 '20)
