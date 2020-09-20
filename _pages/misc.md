@@ -18,7 +18,7 @@ outside of CS research.
 
 - 5X **Dean's List** --- Northwestern University ('17 --- '20)
 
-## Miscellaneous Positions 
+## Work Experience 
 
 - **Lead Developer**, Karen Lynn + Associates Inc. --- Evanston, IL (Nov '18 --- Present). Find
 us [here](https://klabeautyllc.com). Other products: [KLA's portfolio](https://karenlynnmakeup.com).  
@@ -29,7 +29,7 @@ Medicine --- Chicago, IL (Mar '19 --- Present)
 - **Public Computing Aide**, Kellogg School of Management --- Evanston, 
 IL (Mar '19 --- Jun '19)
 
-## Miscellaneous Teaching
+## Teaching Experience 
 
 - **Teaching Assistant/Peer Mentor**, CS 343 --- Operating Systems (Winter
 '20)
@@ -40,7 +40,8 @@ IL (Mar '19 --- Jun '19)
 - **Academic Coach**, NU School of Education and Social Policy --- Evanston, 
 IL (Oct '17 --- Jun '19)
 
-- **Private Tutor**, any subject/standardized testing (Jun '16 --- Present) 
+- **Private Tutor**, any subject/standardized testing (Jun '16 --- Present). See 
+[more](https://www.thumbtack.com/il/evanston/test-prep/math-standardized-test-tutor/service/299791549670416544). 
 
 ## Course Projects
 
