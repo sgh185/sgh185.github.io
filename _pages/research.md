@@ -88,8 +88,8 @@ The following are projects in this research direction that I've contributed to:
   My research contributions include investigating and developing 
   compiler "enablers" to assist Noelle's parallelization capabilities 
   and designing and building an instruction scheduler engine for 
-  users to utilize --- whether it be to parallelize code or apply 
-  to custom analyses and transformations. 
+  users to utilize --- whether it be to parallelize code or for 
+  applying custom analyses and transformations. 
   
   See some of our [progress](https://users.cs.northwestern.edu/~simonec/Software.html).
 
