@@ -14,7 +14,7 @@ outside of CS research.
 
 ## Recognitions
 
-- 2X **NSF REU Fellowship Recipient** ('19, '20)
+- 3X **NSF REU Fellowship Recipient** ('19, '20)
 
 - 5X **Dean's List** --- Northwestern University ('17 --- '20)
 
