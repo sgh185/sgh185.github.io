@@ -32,3 +32,5 @@ with Professors [Peter Dinda](http://pdinda.org/) and
 [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/) on
 research directions involving middle-end compiler optimizations
 and operating systems. 
+
+I look to pursue a PhD in computer science after graduation.
