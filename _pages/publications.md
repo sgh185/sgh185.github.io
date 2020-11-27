@@ -11,7 +11,7 @@ author_profile: true
 
 ## Publications
 
-- **Souradip Ghosh**, Michael Cuevas, Peter Dinda, Simone Campanoni. 
+- **Souradip Ghosh**, Michael Cuevas, Simone Campanoni, Peter Dinda. 
 “Compiler-based Timing For Extremely Fine-grain Preemptive Parallelism”
 (<em>Supercomputing</em> '20). See [paper](https://www.computer.org/csdl/proceedings-article/sc/2020/999800a736/1oeOT64hcJO). 
 
