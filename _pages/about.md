@@ -18,7 +18,7 @@ researcher and teaching assistant at NU's Department of Computer Science.
 My research interests lie in compilers, code analyses and
 transformations, operating systems, computer architecture, and 
 new technologies at the intersection of different layers of the
-computer systems stack --- "blending" --- that can improve 
+computer systems stack -- "blending" -- that can improve 
 performance and efficiency in new ways. 
 
 I have made contributions to long-term research projects such as 

@@ -94,9 +94,9 @@ The following are projects in this research direction that I've contributed to:
   techniques achieved speedups across a wide array of benchmarks
   in Noelle's benchmark suite.
 
-  We're currently expanding the scheduler abstraction as a tool for
-  developers and to enhance techniques in middle-end parallelization
-  and memory footprint reduction.
+  We're currently expanding the scheduler abstraction to enhance performance 
+  in middle-end parallelization and reduce the memory footprint of 
+  applications.
   
   See some of our [progress](https://users.cs.northwestern.edu/~simonec/Software.html).
 
