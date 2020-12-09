@@ -14,13 +14,13 @@ author_profile: true
 ### Accepted/Submitted
 
 - **Souradip Ghosh**, Michael Cuevas, Simone Campanoni, Peter Dinda. 
-“Compiler-based Timing For Extremely Fine-grain Preemptive Parallelism.”
+“Compiler-Based Timing For Extremely Fine-Grain Preemptive Parallelism.”
 <em>Proceedings of the ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (Supercomputing)</em> (SC '20). [Paper](https://www.computer.org/csdl/proceedings-article/sc/2020/999800a736/1oeOT64hcJO). 
 
 - Angelo Matni, Enrico Armenio Deiana, Yian Su, Lukas Gross,
 **Souradip Ghosh**, Sotiris Apostolakis, Ziyang Xu, Zujun Tan, 
 Ishita Chaturvedi, David I. August, Simone Campanoni. “NOELLE 
-Offers Empowering LLVM Extensions.” (<em>arXiv</em> December, '20). 
+Offers Empowering LLVM Extensions.” (<em>arXiv</em> -- December, '20). 
 Paper (to be submitted <em>very</em> soon). 
 
 ### In Preparation
@@ -33,8 +33,8 @@ Paper (to be submitted <em>very</em> soon).
 
 ## Talks and Presentations
 
-- “Compiler-based Timing For Extremely Fine-grain Preemptive Parallelism”
-(<em>Supercomputing</em> -- November '20) [Slides](https://souradipghosh.com/files/ct.pdf). [Video](https://drive.google.com/file/d/1PNNx6qDr0miiqk_I_g8CoKPjTe5rKgO5/view?usp=sharing).
+- “Compiler-Based Timing For Extremely Fine-Grain Preemptive Parallelism”
+(<em>SC</em> -- November '20) [Slides](https://souradipghosh.com/files/ct.pdf). [Video](https://drive.google.com/file/d/1PNNx6qDr0miiqk_I_g8CoKPjTe5rKgO5/view?usp=sharing).
 
 - "KARAT -- Kernel-Based CARAT" (Kernel and Low Level Development, CS 
 446 -- June '20). [Slides](https://souradipghosh.com/files/karat.pdf).
