@@ -15,7 +15,7 @@ author_profile: true
 
 - **Souradip Ghosh**, Michael Cuevas, Simone Campanoni, Peter Dinda. 
 “Compiler-Based Timing For Extremely Fine-Grain Preemptive Parallelism.”
-<em>Proceedings of the ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (Supercomputing)</em> (SC '20). [Paper](https://www.computer.org/csdl/proceedings-article/sc/2020/999800a736/1oeOT64hcJO). 
+<em>Proceedings of the ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (Supercomputing)</em>. (SC '20). [Paper](https://www.computer.org/csdl/proceedings-article/sc/2020/999800a736/1oeOT64hcJO). 
 
 - Angelo Matni, Enrico Armenio Deiana, Yian Su, Lukas Gross,
 **Souradip Ghosh**, Sotiris Apostolakis, Ziyang Xu, Zujun Tan, 

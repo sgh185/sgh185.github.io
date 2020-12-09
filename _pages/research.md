@@ -32,8 +32,8 @@ The following are projects in this research direction that I've contributed to:
 
   The original framework achieves a soft timing guarantee by performing static 
   analyses on a piece of code and injecting callbacks that are set to execute 
-  a specified interval or granularity. The original framework was written using 
-  LLVM and the Nautilus Aerokernel. (See [paper](https://souradipghosh.com/pubs-talks/)).
+  a specified interval or granularity. In other words, the compiler can be timing-aware
+  using custom analyses. The original framework was written using LLVM and the Nautilus Aerokernel. (See [paper](https://souradipghosh.com/pubs-talks/)).
  
   I am currently developing a version of compiler-timing for user-space
   to drive a variety of systems using compiler-injected callbacks
@@ -96,7 +96,9 @@ The following are projects in this research direction that I've contributed to:
 
   We're currently expanding the scheduler abstraction to enhance performance 
   in middle-end parallelization and reduce the memory footprint of 
-  applications.
+  applications. The abstraction is designed as a hierarchy of schedulers
+  -- with schedulers handling more and more complex control-flow structures
+  (basic blocks, loops, sub-CFGs, etc.). 
   
   See some of our [progress](https://users.cs.northwestern.edu/~simonec/Software.html).
 
