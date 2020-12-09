@@ -31,11 +31,10 @@ IL (Mar '19 -- Jun '19)
 
 ## Teaching Experience 
 
-- **Teaching Assistant/Peer Mentor**, CS 343 -- Operating Systems (Winter
-'20)
-
-- **Teaching Assistant/Peer Mentor**, CS 323 -- Code Analysis and Transformation
-(Fall '20)
+- **Teaching Assistant/Peer Mentor**
+    - CS 322 -- Compiler Construction (Winter '21)
+    - CS 323 -- Code Analysis and Transformation (Fall '20)
+    - CS 343 -- Operating Systems (Winter '20)
 
 - **Academic Coach**, NU School of Education and Social Policy -- Evanston, 
 IL (Oct '17 -- Jun '19)
