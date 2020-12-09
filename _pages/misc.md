@@ -36,7 +36,7 @@ IL (Mar '19 -- Jun '19)
     - CS 323 -- Code Analysis and Transformation (Fall '20)
     - CS 343 -- Operating Systems (Winter '20)
 
-- **Academic Coach**, NU School of Education and Social Policy -- Evanston, 
+- **Academic Coach/Mentor**, NU School of Education and Social Policy -- Evanston, 
 IL (Oct '17 -- Jun '19)
 
 - **Private Tutor**, any subject/standardized testing (Jun '16 -- Present). See 
