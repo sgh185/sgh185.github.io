@@ -11,9 +11,25 @@ author_profile: true
 
 ## Publications
 
+### Accepted/Submitted
+
 - **Souradip Ghosh**, Michael Cuevas, Simone Campanoni, Peter Dinda. 
-“Compiler-based Timing For Extremely Fine-grain Preemptive Parallelism”
-(<em>Supercomputing</em> '20). See [paper](https://www.computer.org/csdl/proceedings-article/sc/2020/999800a736/1oeOT64hcJO). 
+“Compiler-based Timing For Extremely Fine-grain Preemptive Parallelism.”
+<em>Proceedings of the ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (Supercomputing)</em> (SC '20). [Paper](https://www.computer.org/csdl/proceedings-article/sc/2020/999800a736/1oeOT64hcJO). 
+
+- Angelo Matni, Enrico Armenio Deiana, Yian Su, Lukas Gross,
+**Souradip Ghosh**, Sotiris Apostolakis, Ziyang Xu, Zujun Tan, 
+Ishita Chaturvedi, David I. August, Simone Campanoni. “NOELLE 
+Offers Empowering LLVM Extensions.” (<em>arXiv</em> December, '20). 
+Paper (to be submitted <em>very</em> soon). 
+
+### In Preparation
+
+- [CARAT](https://souradipghosh.com/research) -- for <em>USENIX ATC</em> '21.
+
+- [FPVM](https://souradipghosh.com/research) -- for <em>HPDC</em> '21.
+
+- [Noelle](https://souradipghosh.com/research) -- for <em>CGO</em> '22.
 
 ## Talks and Presentations
 
