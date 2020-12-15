@@ -31,6 +31,8 @@ Paper (to be submitted <em>very</em> soon).
 
 - [Noelle](https://souradipghosh.com/research) -- for <em>CGO</em> '22.
 
+- [TimeSqueezer](https://souradipghosh.com/research) -- for <em>ASPLOS</em> '22.
+
 ## Talks and Presentations
 
 - “Compiler-Based Timing For Extremely Fine-Grain Preemptive Parallelism”
