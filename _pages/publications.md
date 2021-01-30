@@ -11,8 +11,6 @@ author_profile: true
 
 ## Publications
 
-### In Text 
-
 - **Souradip Ghosh**, Michael Cuevas, Simone Campanoni, Peter Dinda. 
 “Compiler-Based Timing For Extremely Fine-Grain Preemptive Parallelism.”
 <em>Proceedings of the ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (Supercomputing)</em>. (SC '20). [Paper](https://www.computer.org/csdl/proceedings-article/sc/2020/999800a736/1oeOT64hcJO). 
@@ -21,17 +19,20 @@ author_profile: true
 **Souradip Ghosh**, Sotiris Apostolakis, Ziyang Xu, Zujun Tan, 
 Ishita Chaturvedi, David I. August, Simone Campanoni. “NOELLE 
 Offers Empowering LLVM Extensions.” (<em>arXiv</em> -- December, '20). 
-Paper (to be submitted <em>very</em> soon). 
+Paper (to be submitted). 
 
-### In Preparation
+- **Souradip Ghosh**, Alex Bernat, Christopher Kraemer, Yehya Elmasry, 
+Peter Dinda. “FPVM: Implementing a Floating Point Virtual Machine.” 
+<em>In preparation for SC '21.</em> 
 
-- [CARAT](https://souradipghosh.com/research) -- for <em>USENIX ATC</em> '21.
+- Brian Suchy, **Souradip Ghosh**, Drew Kersnar, Siyuan Chai, Zhen Huang, 
+Aaron Nelson, Michael Cuevas, Gaurav Chaudhary, Alex Bernat, Nikos Hardavellas, 
+Simone Campanoni, Peter Dinda. “KARAT: Replacing Paging via Compiler 
+and Runtime.” <em>In preparation for SOSP '21.</em>
 
-- [FPVM](https://souradipghosh.com/research) -- for <em>HPDC</em> '21.
+- Noelle -- <em>In preparation for CGO '22</em>.
 
-- [Noelle](https://souradipghosh.com/research) -- for <em>CGO</em> '22.
-
-- [TimeSqueezer](https://souradipghosh.com/research) -- for <em>ASPLOS</em> '22.
+- TimeSqueezer -- <em>In preparation for ASPLOS '22</em>.
 
 ## Talks and Presentations
 
