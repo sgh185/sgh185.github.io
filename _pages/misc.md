@@ -14,9 +14,11 @@ outside of CS research.
 
 ## Recognitions
 
-- 4X **NSF REU Fellowship Recipient**
+- 5X **NSF REU Fellowship Recipient**
 
-- 5X **Dean's List** -- Northwestern University
+- **Honorable Mention -- CRA Outstanding Undergraduate Researcher** (Dec '20) 
+
+- 6X **Dean's List** -- Northwestern University
 
 ## Work Experience 
 
@@ -30,6 +32,10 @@ Medicine -- Chicago, IL (Mar '19 -- Present)
 IL (Mar '19 -- Jun '19)
 
 ## Teaching Experience 
+
+- **Student Instructor** (NU Department of CS, Jan '21) 
+    - See [archive](https://github.com/sgh185/crash)
+    - Part of NU's first iteration of student-led courses 
 
 - **Teaching Assistant/Peer Mentor**
     - CS 322 -- Compiler Construction (Winter '21)
