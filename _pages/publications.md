@@ -19,7 +19,8 @@ author_profile: true
 **Souradip Ghosh**, Sotiris Apostolakis, Ziyang Xu, Zujun Tan, 
 Ishita Chaturvedi, David I. August, Simone Campanoni. “NOELLE 
 Offers Empowering LLVM Extensions.” (<em>arXiv</em> -- February, '20). 
-[Paper](https://arxiv.org/pdf/2102.05081.pdf). 
+[Paper](https://arxiv.org/pdf/2102.05081.pdf). <em>Also in preparation
+for CGO '22</em>.
 
 - **Souradip Ghosh**, Alex Bernat, Christopher Kraemer, Yehya Elmasry, 
 Peter Dinda. “FPVM: Implementing a Floating Point Virtual Machine.” 
@@ -29,8 +30,6 @@ Peter Dinda. “FPVM: Implementing a Floating Point Virtual Machine.”
 Aaron Nelson, Michael Cuevas, Gaurav Chaudhary, Alex Bernat, Nikos Hardavellas, 
 Simone Campanoni, Peter Dinda. “KARAT: Replacing Paging via Compiler 
 and Runtime.” <em>In preparation for SOSP '21.</em>
-
-- Noelle -- <em>In preparation for CGO '22</em>.
 
 - TimeSqueezer -- <em>In preparation for ASPLOS '22</em>.
 
