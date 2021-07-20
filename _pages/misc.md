@@ -9,21 +9,24 @@ author_profile: true
 
 ---
 
-The following are my miscellaneous academic and professional experiences 
-outside of CS research.
+My other miscellaneous academic and professional experiences.
 
 ## Recognitions
 
-- 5X **NSF REU Fellowship Recipient**
+- **Department of Energy Computational Science Graduate Fellowship (DOE CSGF) Recipient** (Mar '21)
+
+- 6X **NSF REU Fellowship Recipient** (Jun '19 -- Aug '21)
 
 - **Honorable Mention -- CRA Outstanding Undergraduate Researcher** (Dec '20) 
 
-- 6X **Dean's List** -- Northwestern University
+- **Outstanding Senior in CS -- Weinberg School of Arts and Sciences** (Jun '21)
 
 ## Work Experience 
 
 - **Lead Software Developer, IT Manager**, Karen Lynn + Associates Inc. -- Evanston, IL (Nov '18 -- Present). Find
 us [here](https://klabeautyllc.com). Other products: [KLA's portfolio](https://karenlynnmakeup.com).  
+
+- **Programming Aide**, NU Department of CS -- Evanston, IL (Apr '21 -- Jul '21)
 
 - **Front-End Developer**, Lurie Medical Research Center, Feinberg School of 
 Medicine -- Chicago, IL (Mar '19 -- Present)
@@ -51,14 +54,13 @@ IL (Oct '17 -- Jun '19)
 ## Course Projects
 
 - **Custom CAT for C-Based API**, CS 323 -- Code Analysis and Transformation (Spring '19)
-
 - **Custom Compiler for Near C-Based Language**, CS 322 -- Compiler Construction
 (Winter '20)
-
 - **Endpoint Detection and Response System for Linux**, CS 450 -- Internet Security
 (Winter '20)
-
+- **A Parking Detection System Using Bluetooth Low Energy**, CS 397 -- Wireless Protocols
+for IoT (Winter '21)
 - **News Search Engine**, CS 396 -- Scalable Software Architectures (Spring '20)
-
+- **Heartbeat Monitoring Device**, CE 246 -- Microprocessor System Design (Spring '21)
 - **Harvest -- Behavior Change Web Application**, CS 330 -- Human Computer Interaction
 (Winter '19)
