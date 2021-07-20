@@ -61,6 +61,6 @@ IL (Oct '17 -- Jun '19)
 - **A Parking Detection System Using Bluetooth Low Energy**, CS 397 -- Wireless Protocols
 for IoT (Winter '21)
 - **News Search Engine**, CS 396 -- Scalable Software Architectures (Spring '20)
-- **Heartbeat Monitoring Device**, CE 246 -- Microprocessor System Design (Spring '21)
+- **Heartbeat Monitoring Device**, CE 346 -- Microprocessor System Design (Spring '21)
 - **Harvest -- Behavior Change Web Application**, CS 330 -- Human Computer Interaction
 (Winter '19)
