@@ -13,9 +13,9 @@ author_profile: true
 The numerous pieces of a computer systems stack (the compiler, the OS, the 
 architecture, etc.) are usually considered as separate entities. What if 
 these entities weren't strictly separated -- what if these pieces were
-"interwoven" or "blended"? I'm interested in exploring the feasibility, 
-efficiency, and the performance of these systems -- especially at the 
-intersection of the compiler and operating system layers. 
+"interwoven" or "blended"? The Interweaving Project explores the feasibility, 
+efficiency, and the performance of these systems, with a focus on parallel
+systems. More info [here](http://interweaving.org/).
 
 The following are projects in this research direction that I've contributed to:
 
@@ -33,9 +33,10 @@ The following are projects in this research direction that I've contributed to:
   The original framework achieves a soft timing guarantee by performing static 
   analyses on a piece of code and injecting callbacks that are set to execute 
   a specified interval or granularity. In other words, the compiler can be timing-aware
-  using custom analyses. The original framework was written using LLVM and the Nautilus Aerokernel. (See [paper](https://souradipghosh.com/pubs-talks/)).
+  using custom analyses. The original framework was written using LLVM and the Nautilus Aerokernel. 
+  (See [paper](https://souradipghosh.com/pubs-talks/)).
  
-  I am currently developing a version of compiler-timing for user-space
+  We are currently developing a version of compiler-timing for user-space
   to drive a variety of systems using compiler-injected callbacks
   ([heartbeat scheduling](http://www.andrew.cmu.edu/user/mrainey//heartbeat/heartbeat.html),
   new techniques to analyze performance of address translation). 
@@ -47,8 +48,8 @@ The following are projects in this research direction that I've contributed to:
 - **Compiler and Runtime-Based Address Translation** (CARAT)
 
   We are building on [CARAT](http://pdinda.org/Papers/pldi20.pdf), a novel framework to replace virtual 
-  memory with a software implementation consisting of compiler transforms
-  and a runtime. Our goal to explore an implementation of CARAT, 
+  memory and paging with a fully-software implementation consisting of compiler transforms
+  and a runtime. Our goal is to explore an implementation of CARAT, 
   originally written in user-space, in a kernel (Nautilus). This is
   a non-trivial task, as we have to understand methods to track and 
   protect memory in the kernel, efficiently search and query memory 
@@ -74,8 +75,8 @@ The following are projects in this research direction that I've contributed to:
 
 
 ## Next Generation Compilers 
-I'm interested in investigating and developing novel compiler optimization
-and code generation techniques for the next generation of compilers. 
+Investigating and developing novel compiler optimization and code generation 
+techniques for the next generation of compilers. 
 
 The following are projects in this research direction that I've contributed to:
  
@@ -93,26 +94,63 @@ The following are projects in this research direction that I've contributed to:
   applying custom analyses and transformations. Custom scheduling  
   techniques achieved speedups across a wide array of benchmarks
   in Noelle's benchmark suite.
-
-  We're currently expanding the scheduler abstraction to enhance performance 
-  in middle-end parallelization and reduce the memory footprint of 
-  applications. The abstraction is designed as a hierarchy of schedulers
-  -- with schedulers handling more and more complex control-flow structures
-  (basic blocks, loops, sub-CFGs, etc.). 
-  
-  See some of our [progress](https://users.cs.northwestern.edu/~simonec/Software.html).
+ 
+  See our [paper](https://souradipghosh.com/pubs-talks/) and some of our 
+  [progress](https://users.cs.northwestern.edu/~simonec/Software.html).
 
   **In collaboration with:** NU Compilers Group, Princeton's [Liberty
   Research Group](https://liberty.princeton.edu/) 
+
+- **New Foundations for Instruction Scheduling**
+
+  Instruction scheduling has consistently been a cornerstone of the 
+  compiler back-end, where it is used for optimization and to extract
+  ILP. However, little work has been done to apply automatic, general 
+  purpose global code scheduling mechanisms to the IR, where dependence 
+  analysis and code transformations are much more powerful. 
+
+  We are exploring a new compiler relation to 1) understand how often 
+  instructions or basic blocks in the IR execute relatively, and 2) to relax 
+  dependences for code motion so that middle-end instruction scheduling is 
+  effective. 
+
+  We're simultaneously expanding the scheduler abstraction in Noelle with these 
+  concepts, and we've applied it to an automatic parallelization framework within 
+  Noelle ([HELIX](https://users.cs.northwestern.edu/~simonec/files/Research/papers/HELIX_CGO_2012.pdf)). 
+  The abstraction is designed as a hierarchy of schedulers -- with 
+  schedulers handling more and more complex control-flow structures (basic 
+  blocks, loops, sub-CFGs, etc.). 
+ 
+  See some of our [progress](https://souradipghosh.com/pubs-talks/).
+
+  **In collaboration with:** NU Compilers Group 
 
 - **TimeSqueezer**
 
   We are expanding upon the [TimeSqueezer](https://users.cs.northwestern.edu/~simonec/files/Research/papers/RES_ISCA_2019.pdf)
   stack to further explore energy savings and efficiency with a novel 
   hardware-software co-design aimed at automatically reducing the 
-  amount of memory used by instruction operands. 
+  amount of memory used by arithmetic instruction operands. This system
+  targets embedded systems and tiny devices. 
 
   My research contributions include designing and building middle-end 
   code analyses and transformations for this new approach.  
 
   **In collaboration with:** NU Compilers Group, NU TimeSqueezing Group 
+
+- **Compiler-Optimized Checkpointing for Intermittent Systems**
+
+  Energy-harvesting devices operate intermittently -- i.e. only when
+  energy is available to power the system. A common design in intermittent
+  systems is the use of checkpointing (see [more](https://sampa.cs.washington.edu/new/papers/mspc14-time-machine.pdf)). 
+  Checkpoints could be introduced by the programmer or automatically by the 
+  compiler. We are exploring compiler optimziations to reduce the number of 
+  checkpoints introduced automatically, without user input, and for general 
+  purpose applications. 
+
+  My contributions include middle-end compiler transformations that exploit 
+  dependence analyses and instruction scheduling algorithms to reduce inserted 
+  checkpoints in loops. 
+
+  **In collaboration with:** NU Compilers Group, TU Delft's [Sustainable Systems 
+  Laboratory](https://github.com/tudssl/), NU's [Ka Moamoa Lab](http://kamoamoa.eecs.northwestern.edu/)
