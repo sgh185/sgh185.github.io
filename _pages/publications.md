@@ -22,21 +22,24 @@ Offers Empowering LLVM Extensions.” (<em>arXiv</em> -- February, '20).
 [Paper](https://arxiv.org/pdf/2102.05081.pdf). <em>Also in preparation
 for CGO '22</em>.
 
-- **Souradip Ghosh**, Alex Bernat, Christopher Kraemer, Yehya Elmasry, 
-Peter Dinda. “FPVM: Implementing a Floating Point Virtual Machine.” 
-<em>In preparation for SC '21.</em> 
-
 - Brian Suchy, **Souradip Ghosh**, Drew Kersnar, Siyuan Chai, Zhen Huang, 
 Aaron Nelson, Michael Cuevas, Gaurav Chaudhary, Alex Bernat, Nikos Hardavellas, 
 Simone Campanoni, Peter Dinda. “KARAT: Replacing Paging via Compiler 
-and Runtime.” <em>In preparation for SOSP '21.</em>
+and Runtime.” <em>In submission for SOSP '21.</em>
 
 - TimeSqueezer -- <em>In preparation for ASPLOS '22</em>.
+
+- Compiler-Optimized Checkpointing for Intermittent Systems -- <em>In preparation for ASPLOS '22</em>
+
+- New Foundations for Instruction Scheduling -- <em>In preparation for PLDI '22</em>  
 
 ## Talks and Presentations
 
 - “Compiler-Based Timing For Extremely Fine-Grain Preemptive Parallelism”
 (<em>SC</em> -- November '20) [Slides](https://souradipghosh.com/files/ct.pdf). [Video](https://drive.google.com/file/d/1PNNx6qDr0miiqk_I_g8CoKPjTe5rKgO5/view?usp=sharing).
+
+- "Number of Execution Equivalence, New Foundations for Middle-End 
+Instruction Scheduling" (NU Compilers Group and CS 497 -- June '21). [Slides](https://souradipghosh.com/).
 
 - "KARAT -- Kernel-Based CARAT" (Kernel and Low Level Development, CS 
 446 -- June '20). [Slides](https://souradipghosh.com/files/karat.pdf).
