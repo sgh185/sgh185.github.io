@@ -39,7 +39,7 @@ and Runtime.” <em>In submission for SOSP '21.</em>
 (<em>SC</em> -- November '20) [Slides](https://souradipghosh.com/files/ct.pdf). [Video](https://drive.google.com/file/d/1PNNx6qDr0miiqk_I_g8CoKPjTe5rKgO5/view?usp=sharing).
 
 - "Number of Execution Equivalence, New Foundations for Middle-End 
-Instruction Scheduling" (NU Compilers Group and CS 497 -- June '21). [Slides](https://souradipghosh.com/).
+Instruction Scheduling" (NU Compilers Group and CS 497 -- June '21). Send an email for slides.
 
 - "KARAT -- Kernel-Based CARAT" (Kernel and Low Level Development, CS 
 446 -- June '20). [Slides](https://souradipghosh.com/files/karat.pdf).
