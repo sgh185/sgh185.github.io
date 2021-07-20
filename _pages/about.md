@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 I'm an incoming PhD student in the Computer Science Department at Carnegie
-Mellon University. My graduate studies are supported by Department of Energy
+Mellon University. My graduate studies are supported by the Department of Energy
 Computational Science Graduate Fellowship (DOE CSGF). 
 
 My research interests lie in compilers, code analyses and
