@@ -10,14 +10,17 @@ redirect_from:
 
 ---
 
-I'm an incoming PhD student in the Computer Science Department at Carnegie
-Mellon University. My graduate studies are supported by the Department of Energy
-Computational Science Graduate Fellowship (DOE CSGF). 
+I'm a first-year PhD student in the Computer Science Department at Carnegie
+Mellon University. I am advised by Professors [Brandon Lucia](https://brandonlucia.com/)
+and [Nathan Beckmann](https://www.cs.cmu.edu/~beckmann/). My graduate studies are supported 
+by the Department of Energy Computational Science Graduate Fellowship (DOE CSGF). 
 
 My research interests lie in compilers, code analyses and
 transformations, operating systems, computer architecture, and 
 new technologies at the intersection of different layers of the
-computer systems stack.
+computer systems stack. I'm currently working on programming 
+models and compilation support for coarse-grained reconfigurable arrays 
+(CGRAs). 
 
 I graduated from Northwestern University with a bachelor's degree 
 in computer science, where I focused my studies on computer systems. 
