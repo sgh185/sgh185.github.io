@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Miscellaneous"
+title: "Miscellaneous Items"
 permalink: /misc/
 author_profile: true
 ---
@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 ---
-
-My other miscellaneous academic and professional experiences.
 
 ## Recognitions
 
@@ -51,16 +49,7 @@ IL (Oct '17 -- Jun '19)
 - **Private Tutor**, any subject/standardized testing (Jun '16 -- Present). See 
 [more](https://www.thumbtack.com/il/evanston/test-prep/math-standardized-test-tutor/service/299791549670416544). 
 
-## Course Projects
+---
 
-- **Custom CAT for C-Based API**, CS 323 -- Code Analysis and Transformation (Spring '19)
-- **Custom Compiler for Near C-Based Language**, CS 322 -- Compiler Construction
-(Winter '20)
-- **Endpoint Detection and Response System for Linux**, CS 450 -- Internet Security
-(Winter '20)
-- **A Parking Detection System Using Bluetooth Low Energy**, CS 397 -- Wireless Protocols
-for IoT (Winter '21)
-- **News Search Engine**, CS 396 -- Scalable Software Architectures (Spring '20)
-- **Heartbeat Monitoring Device**, CE 346 -- Microprocessor System Design (Spring '21)
-- **Harvest -- Behavior Change Web Application**, CS 330 -- Human Computer Interaction
-(Winter '19)
+[Archive](https://souradipghosh.com/archive-misc/).
+
