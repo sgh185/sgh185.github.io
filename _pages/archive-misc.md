@@ -9,6 +9,12 @@ author_profile: true
 
 ---
 
+## Teaching Experience
+
+- **Private Tutor**, any subject/standardized testing (Jun '16 -- Sep '21). See 
+[more](https://www.thumbtack.com/il/evanston/test-prep/math-standardized-test-tutor/service/299791549670416544). 
+
+
 ## Course Projects
 
 - **Custom CAT for C-Based API**, CS 323 -- Code Analysis and Transformation (Spring '19)
