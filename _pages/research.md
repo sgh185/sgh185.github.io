@@ -20,7 +20,7 @@ author_profile: true
   onto the processing elements in order to effectively use the CGRA's resources.
 
   I'm exploring language support, compilation approaches, and dataflow graph 
-  optimizations for CGRAs and related architectures. This work builds off of
+  optimizations for CGRAs and related architectures. This work builds on 
   [SNAFU](https://g-ram.github.io/files/snafu_isca_2021.pdf), an energy-minimal 
   CGRA generation framework and architecture.
 
