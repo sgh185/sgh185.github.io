@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Souradip Ghosh"
 title_separator          : "-"
 name                     : &name "Souradip Ghosh"
-description              : &description "Incoming CS PhD Student @ CMU"
+description              : &description "CS PhD Student @ CMU"
 url                      : https://sgh185.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sgh185/sghosh.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Souradip Ghosh"
   avatar           : "profile.png"
-  bio              : "Incoming CS PhD Student @ CMU"
-  location         : "St. Louis, Missouri"
+  bio              : "CS PhD Student @ CMU"
+  location         : "Pittsburgh, Pennsylvania"
   employer         : "Carnegie Mellon University"
   pubmed           : 
   googlescholar    : 
