@@ -18,7 +18,7 @@ author_profile: true
 - Angelo Matni, Enrico Armenio Deiana, Yian Su, Lukas Gross,
 **Souradip Ghosh**, Sotiris Apostolakis, Ziyang Xu, Zujun Tan, 
 Ishita Chaturvedi, David I. August, Simone Campanoni. “NOELLE 
-Offers Empowering LLVM Extensions.” (<em>arXiv</em> -- February, '20). 
+Offers Empowering LLVM Extensions.” (<em>arXiv</em> -- February, '21). 
 [Paper](https://arxiv.org/pdf/2102.05081.pdf). <em>Also in submission 
 for CGO '22</em>.
 
