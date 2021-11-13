@@ -28,7 +28,7 @@ Simone Campanoni, Peter Dinda. “CARAT CAKE: Replacing Paging via Compiler/Kern
 Cooperation.” <em>International Conference on Architectural Support for 
 Programming Languages and Operating Systems.</em> (ASPLOS '22). <em>To appear.</em> 
 
-- Compiler-Optimized Checkpointing for Intermittent Systems -- <em>In preparation for PLDI '22</em>
+- TimeSqueezer – TBD. 
 
 ## Talks and Presentations
 
