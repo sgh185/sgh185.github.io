@@ -25,13 +25,10 @@ Code Generation and Optimization.</em> (CGO '22). <em>To appear.</em>
 - Brian Suchy, **Souradip Ghosh**, Drew Kersnar, Siyuan Chai, Zhen Huang, 
 Aaron Nelson, Michael Cuevas, Gaurav Chaudhary, Alex Bernat, Nikos Hardavellas, 
 Simone Campanoni, Peter Dinda. “CARAT CAKE: Replacing Paging via Compiler/Kernel 
-Cooperation.” <em>In submission for ASPLOS '22.</em>
-
-- TimeSqueezer -- <em>In preparation for PLDI '22</em>.
+Cooperation.” <em>International Conference on Architectural Support for 
+Programming Languages and Operating Systems.</em> (ASPLOS '22). <em>To appear.</em> 
 
 - Compiler-Optimized Checkpointing for Intermittent Systems -- <em>In preparation for PLDI '22</em>
-
-- New Foundations for Instruction Scheduling -- <em>In preparation for PLDI '22</em>  
 
 ## Talks and Presentations
 
