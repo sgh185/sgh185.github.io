@@ -19,14 +19,20 @@ author_profile: true
 **Souradip Ghosh**, Sotiris Apostolakis, Ziyang Xu, Zujun Tan, 
 Ishita Chaturvedi, David I. August, Simone Campanoni. “NOELLE 
 Offers Empowering LLVM Extensions.” <em>International Conference on
-Code Generation and Optimization.</em> (CGO '22). <em>To appear.</em> 
-[Paper](https://arxiv.org/pdf/2102.05081.pdf).
+Code Generation and Optimization.</em> (CGO '22). 
+[Paper](https://users.cs.northwestern.edu/~simonec/files/Research/papers/HELIX_CGO_2022.pdf).
 
 - Brian Suchy, **Souradip Ghosh**, Drew Kersnar, Siyuan Chai, Zhen Huang, 
 Aaron Nelson, Michael Cuevas, Gaurav Chaudhary, Alex Bernat, Nikos Hardavellas, 
 Simone Campanoni, Peter Dinda. “CARAT CAKE: Replacing Paging via Compiler/Kernel 
 Cooperation.” <em>International Conference on Architectural Support for 
-Programming Languages and Operating Systems.</em> (ASPLOS '22). <em>To appear.</em> 
+Programming Languages and Operating Systems.</em> (ASPLOS '22).
+[Paper](https://users.cs.northwestern.edu/~simonec/files/Research/papers/MODERN_ASPLOS_2022.pdf).
+
+- Vito Kortbeek, **Souradip Ghosh**, Josiah Hester, Simone Campanoni, Przemysław
+Pawełczak. "WARio: Efficient Code Generation for Intermittent Computing via Compiler
+Support." <em> ACM SIGPLAN Conference on Programming Language Design and 
+Implementation.</em> (PLDI '22). <em>To appear.</em>
 
 - TimeSqueezer – TBD. 
 
