@@ -34,7 +34,10 @@ Pawełczak. "WARio: Efficient Code Generation for Intermittent Computing via Com
 Support." <em> ACM SIGPLAN Conference on Programming Language Design and 
 Implementation.</em> (PLDI '22). <em>To appear.</em>
 
-- TimeSqueezer – TBD. 
+- Peter Dinda, Nick Wanninger, Jiacheng Ma, Alex Bernat, Charles Bernat, **Souradip
+Ghosh**, Christopher Kraemer, Yehya Elmasry. "FPVM: Towards a Floating Point 
+Virtual Machine." <em>International ACM Symposium on High-Performance Parallel 
+and Distributed Computing.</em> (HPDC '22). <em>To appear.</em>
 
 ## Talks and Presentations
 
