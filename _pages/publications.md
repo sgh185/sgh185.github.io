@@ -17,8 +17,8 @@ Virtual Machine." <em>International ACM Symposium on High-Performance Parallel
 and Distributed Computing.</em> (HPDC '22). <em>To appear.</em>
 
 - Vito Kortbeek, **Souradip Ghosh**, Josiah Hester, Simone Campanoni, Przemysław
-Pawełczak. "WARio: Efficient Code Generation for Intermittent Computing via Compiler
-Support." <em> ACM SIGPLAN Conference on Programming Language Design and 
+Pawełczak. "WARio: Efficient Code Generation for Intermittent Computing."
+<em> ACM SIGPLAN Conference on Programming Language Design and 
 Implementation.</em> (PLDI '22). <em>To appear.</em>
 
 - Brian Suchy, **Souradip Ghosh**, Drew Kersnar, Siyuan Chai, Zhen Huang, 
@@ -37,7 +37,9 @@ Code Generation and Optimization.</em> (CGO '22).
 
 - **Souradip Ghosh**, Michael Cuevas, Simone Campanoni, Peter Dinda. 
 “Compiler-Based Timing For Extremely Fine-Grain Preemptive Parallelism.”
-<em>Proceedings of the ACM/IEEE International Conference on High Performance Computing, Networking, Storage and Analysis (Supercomputing)</em>. (SC '20). [Paper](https://souradipghosh.com/files/ct-sc20.pdf). 
+<em>Proceedings of the ACM/IEEE International Conference on High Performance 
+Computing, Networking, Storage and Analysis (Supercomputing)</em>. (SC '20). 
+[Paper](https://souradipghosh.com/files/ct-sc20.pdf). 
 
 ## Talks and Presentations
 
