@@ -23,8 +23,6 @@ Steering is implemented with the <em>steer</em> operators (in true and false fla
 
 Additionally, RipTide's ISA includes arithmetic, memory, synchonization, and other operators (see table below).
 
-
-
 ## Streams
 
 RipTide's compiler identifies affine loop-governing induction variables (LGIVs) in LLVM IR and tracks them into the dataflow graph (DFG)
@@ -36,7 +34,13 @@ in the compiler pipeline diagram above.
 
 ## Microarchitecture
 
+RipTide presents a 6×6 fabric containing heterogeneous PEs connected via a bufferless, 2D-torus NoC. A complete RipTide system 
+contains a CGRA fabric, a RISCV scalar core, and a 256KB (8×32KB banks) SRAM main memory.
+
+![image info](https://sgh185.github.io/images/fabric.png)
+
+
 ## Running a DNN on RipTide
 
 ## Link 
-![image info](https://souradipghosh.com/images/frame.png)
+![image info](https://sgh185.github.io/images/frame.png)
