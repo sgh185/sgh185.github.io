@@ -59,7 +59,6 @@ This process can be seen in the diagram below (refers to exmamples code from the
 
 ![Memory Ordering](https://sgh185.github.io/files/ord.png)
 
-
 ## Microarchitecture
 
 RipTide presents a 6×6 fabric containing heterogeneous PEs connected via a bufferless, 2D-torus NoC. A complete RipTide system 
