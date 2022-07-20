@@ -35,7 +35,7 @@ RipTide's compiler (the frontend and middle-end) are implemented in LLVM 12.0.0.
 C code (no custom annotations), implements RipTide's control-flow paradigm and memory ordering in LLVM IR,
 synthesizes the IR into a DFG, and optimizes the DFG.
 
-![LLVM Compilation Pipeline](https://sgh185.github.io/files/fabric.png)
+![LLVM Compilation Pipeline](https://sgh185.github.io/files/compiler.png)
 
 ## Streams
 
@@ -57,7 +57,7 @@ edges while maintaining correctness with respect to the control-flow present in 
 
 This process can be seen in the diagram below (refers to exmamples code from the compiler diagram above).
 
-![Memory Ordering](https://sgh185.github.io/files/.png)
+![Memory Ordering](https://sgh185.github.io/files/ord.png)
 
 
 ## Microarchitecture
