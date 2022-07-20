@@ -23,6 +23,20 @@ Steering is implemented with the <em>steer</em> operators (in true and false fla
 
 Additionally, RipTide's ISA includes arithmetic, memory, synchonization, and other operators (see table below).
 
+RipTide's Full ISA:
+![ISA](https://sgh185.github.io/images/isa.png?v=M44lzPylqQ)
+
+RipTide's Control-Flow Operators:
+![ISA](https://sgh185.github.io/images/cfs.png?v=M44lzPylqQ)
+
+## LLVM Compilation Pipeline
+
+RipTide's compiler (the frontend and middle-end) are implemented in LLVM 12.0.0. It takes lightly annotated
+C code (no custom annotations), implements RipTide's control-flow paradigm and memory ordering in LLVM IR,
+synthesizes the IR into a DFG, and optimizes the DFG.
+
+![LLVM Compilation Pipeline](https://sgh185.github.io/images/fabric.png?v=M44lzPylqQ)
+
 ## Streams
 
 RipTide's compiler identifies affine loop-governing induction variables (LGIVs) in LLVM IR and tracks them into the dataflow graph (DFG)
@@ -37,10 +51,15 @@ in the compiler pipeline diagram above.
 RipTide presents a 6×6 fabric containing heterogeneous PEs connected via a bufferless, 2D-torus NoC. A complete RipTide system 
 contains a CGRA fabric, a RISCV scalar core, and a 256KB (8×32KB banks) SRAM main memory.
 
-![image info](https://sgh185.github.io/images/fabric.png)
-
+![RipTide's CGRA Fabric](https://sgh185.github.io/images/fabric.png?v=M44lzPylqQ)
 
 ## Running a DNN on RipTide
 
+We ran an end-to-end application, DNN inference, on RipTide. The DNN we chose has four layers: two convolution layers separated 
+into three sublayers followed by two fully-connected layers. Every single layer is offloaded to RipTide’s fabric, including 
+convolution, fully- connected, activation, pooling, and normalization layers. Some results can be seen below.
+
+![DNN Results](https://sgh185.github.io/images/dnn-results.png?v=M44lzPylqQ)
+
 ## Link 
-![image info](https://sgh185.github.io/images/frame.png)
+![QRCode](https://sgh185.github.io/images/frame.png?v=M44lzPylqQ)
