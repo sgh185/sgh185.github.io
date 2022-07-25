@@ -19,7 +19,7 @@ My research interests lie in compilers, code analyses and
 transformations, operating systems, computer architecture, and 
 the intersection of different layers of the systems stack. 
 I'm currently working on programming models and compilation support 
-for coarse-grained reconfigurable arrays (CGRAs). 
+for energy-minimal coarse-grained reconfigurable arrays (CGRAs). 
 
 I graduated from Northwestern University with a bachelor's degree 
 in computer science, where I focused my studies on computer systems. 
