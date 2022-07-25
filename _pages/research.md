@@ -11,7 +11,7 @@ author_profile: true
 
 ## Ultra-Low-Power Computing Platforms and Architectures 
 
-- **Programming Models and Compilation Support for CGRAs**
+- **Programming Models and Compilation Support for Energy-Minimal CGRAs**
 
   A coarse-grained reconfigurable arrays (CGRA) is a dataflow architecture
   with configurable processing elements (PEs) that offers programmability 
@@ -20,9 +20,14 @@ author_profile: true
   onto the processing elements in order to effectively use the CGRA's resources.
 
   I'm exploring language support, compilation approaches, and dataflow graph 
-  optimizations for CGRAs and related architectures. This work builds on 
-  [SNAFU](https://g-ram.github.io/files/snafu_isca_2021.pdf), an energy-minimal 
-  CGRA generation framework and architecture.
+  optimizations for CGRAs and related architectures. We're working on
+  RipTide, a new CGRA compiler and architecture that achieves efficiency by offloading
+  entire applications to the fabric and handling common programming idioms. This 
+  includes CGRA support for complex control-flow, irregular memory accesses, enforced 
+  memory ordering, and more. 
+  
+  This work builds on [SNAFU](https://g-ram.github.io/files/snafu_isca_2021.pdf), 
+  an energy-minimal CGRA generation framework and architecture. 
 
   **In collaboration with:** [Abstract Research Group](http://abstract.ece.cmu.edu/) 
   and [CORGi](https://cmu-corgi.github.io/)

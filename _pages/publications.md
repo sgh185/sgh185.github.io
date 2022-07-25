@@ -49,7 +49,10 @@ Computing, Networking, Storage and Analysis (Supercomputing)</em>. (SC '20).
 ## Talks and Presentations
 
 - “Compiler-Based Timing For Extremely Fine-Grain Preemptive Parallelism”
-(<em>SC</em> -- November '20) [Slides](https://souradipghosh.com/files/ct.pdf). [Video](https://drive.google.com/file/d/1PNNx6qDr0miiqk_I_g8CoKPjTe5rKgO5/view?usp=sharing).
+(<em>SC</em>, November '20. Virtual.) [Slides](https://souradipghosh.com/files/ct.pdf). [Video](https://drive.google.com/file/d/1PNNx6qDr0miiqk_I_g8CoKPjTe5rKgO5/view?usp=sharing).
+
+- "RipTide: A Programmable, Energy-Minimal Dataflow Compiler and Architecture."
+(<em>>DOE CSGF Program Review</em>, July '22. Arlington, VA.) [Poster](https://souradipghosh.com/files/riptide-poster-doe-newest.pdf). 
 
 ---
 
