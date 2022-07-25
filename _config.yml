@@ -86,7 +86,7 @@ author:
   location         : "Pittsburgh, Pennsylvania"
   employer         : "Carnegie Mellon University"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=BEu5TxAAAAAJ&hl=en" 
   email            : "souradip@cmu.edu"
   researchgate     :
   uri              :
@@ -95,11 +95,11 @@ author:
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
-  github           : "sgh185"
+  foursquare       : 
+  github           : 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : 
   lastfm           :
   linkedin         : "sghosh16" 
