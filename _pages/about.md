@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I'm a first-year PhD student in the Computer Science Department at Carnegie
+I'm a second-year PhD student in the Computer Science Department at Carnegie
 Mellon University. I am advised by Professors [Brandon Lucia](https://brandonlucia.com/)
 and [Nathan Beckmann](https://www.cs.cmu.edu/~beckmann/). My graduate studies are supported 
 by the Department of Energy Computational Science Graduate Fellowship (DOE CSGF). 
