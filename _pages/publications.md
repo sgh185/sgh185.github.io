@@ -49,6 +49,9 @@ Computing, Networking, Storage and Analysis (Supercomputing)</em>. (SC '20).
 ## Talks and Presentations
 
 - "RipTide: A Programmable, Energy-Minimal Dataflow Compiler and Architecture."
+(<em>SRC Artificial Intelligence Hardware Annual Review</em>, August '22. San Diego, CA.) [Poster](https://souradipghosh.com/files/3019.001_poster_ghosh.pdf). [Slides](https://souradipghosh.com/files/3019.001_slides_ghosh.pdf). [Recording](https://drive.google.com/file/d/1cjj_1g--mx62I_hf1K2O_DFD7SFFjBnK/view?usp=sharing). 
+
+- "RipTide: A Programmable, Energy-Minimal Dataflow Compiler and Architecture."
 (<em>DOE CSGF Program Review</em>, July '22. Arlington, VA.) [Poster](https://souradipghosh.com/files/riptide-poster-doe-newest.pdf). 
 
 - “Compiler-Based Timing For Extremely Fine-Grain Preemptive Parallelism”
