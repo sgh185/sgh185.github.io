@@ -22,9 +22,9 @@ I'm currently working on programming models and compilation support
 for energy-minimal coarse-grained reconfigurable arrays (CGRAs). 
 
 I graduated from Northwestern University with a bachelor's degree 
-in computer science, where I focused my studies on computer systems. 
+in computer science, where I focused on computer systems. 
 I was advised by Professors [Peter Dinda](http://pdinda.org/) and 
-[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/), and 
-I was an active member of [NU Compilers Group](https://users.cs.northwestern.edu/~simonec/Team.html#Collaboration),
+[Simone Campanoni](https://users.cs.northwestern.edu/~simonec/) and 
+was an active member of [NU Compilers Group](https://users.cs.northwestern.edu/~simonec/Team.html#Collaboration),
 [NU’s Prescience Lab](http://www.presciencelab.org/), and the NU Parallelism 
 Group. 
