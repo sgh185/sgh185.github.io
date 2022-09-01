@@ -25,12 +25,12 @@ author_profile: true
   a class of spatial dataflow architectures, are a great choice for these devices as they 
   strike a balance between both dimensions.
 
-  CGRAs are roughly defined as a grid processing elements (PEs) connected via a network-on-chip
-  (NoC). They achieve efficiency by spatially distributing "coarse" operations (like ALU or memory
-  ops) onto PEs and communication onto the NoC -- both of which eliminate expensive fetch/decode in a 
-  shared pipeline and costly updates to shared register files. However, prior ULP CGRAs only 
+  CGRAs are roughly defined as a grid of processing elements (PEs) connected via a network-on-chip
+  (NoC). They achieve efficiency by spatially distributing operations (like ALU or memory
+  ops) onto PEs and communication onto the NoC -- both of which eliminate expensive fetch/decode 
+  and costly updates to shared register files. However, prior ULP CGRAs only 
   accelerate portions of an app (namely affine inner loops), leaving the rest of the code to 
-  run on inefficient in-order scalar cores and increasing switching costs. This creates a clear
+  run on inefficient in-order scalar cores while increasing switching costs. This creates a clear
   Amdahl efficiency bottleneck for these architectures.
 
   Our insight is that supporting <em>entire apps</em> on an energy-minimal CGRA is key to improving
