@@ -14,7 +14,7 @@ author_profile: true
 - Graham Gobieski, **Souradip Ghosh**, Marijn Heule, Todd C. Mowry, Tony Nowatzki, 
 Nathan Beckmann, Brandon Lucia. "RipTide: A Programmable, Energy-Minimal Dataflow 
 Compiler and Architecture." <em>ACM/IEEE International Symposium on Microarchitecture.</em>
-(MICRO '22). <em>To appear</em>.
+(MICRO '22). [Paper](http://www.cs.cmu.edu/~beckmann/publications/papers/2022.micro.riptide.pdf).
 
 - Peter Dinda, Nick Wanninger, Jiacheng Ma, Alex Bernat, Charles Bernat, **Souradip
 Ghosh**, Christopher Kraemer, Yehya Elmasry. "FPVM: Towards a Floating Point 
