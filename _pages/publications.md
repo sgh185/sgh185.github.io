@@ -19,7 +19,7 @@ Compiler and Architecture." <em>ACM/IEEE International Symposium on Microarchite
 - Peter Dinda, Nick Wanninger, Jiacheng Ma, Alex Bernat, Charles Bernat, **Souradip
 Ghosh**, Christopher Kraemer, Yehya Elmasry. "FPVM: Towards a Floating Point 
 Virtual Machine." <em>International ACM Symposium on High-Performance Parallel 
-and Distributed Computing.</em> (HPDC '22). [Paper](https://dl.acm.org/doi/pdf/10.1145/3502181.3531469).
+and Distributed Computing.</em> (HPDC '22). [Paper](https://nickw.io/papers/hpdc22.pdf).
 
 - Vito Kortbeek, **Souradip Ghosh**, Josiah Hester, Simone Campanoni, Przemysław
 Pawełczak. "WARio: Efficient Code Generation for Intermittent Computing."
