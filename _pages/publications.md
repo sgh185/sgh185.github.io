@@ -35,7 +35,7 @@ Programming Languages and Operating Systems.</em> (ASPLOS '22).
 
 - Angelo Matni, Enrico Armenio Deiana, Yian Su, Lukas Gross,
 **Souradip Ghosh**, Sotiris Apostolakis, Ziyang Xu, Zujun Tan, 
-Ishita Chaturvedi, David I. August, Simone Campanoni. “NOELLE 
+Ishita Chaturvedi, Brian Homerding, Tommy McMichen, David I. August, Simone Campanoni. “NOELLE 
 Offers Empowering LLVM Extensions.” <em>International Conference on
 Code Generation and Optimization.</em> (CGO '22). 
 [Paper](https://users.cs.northwestern.edu/~simonec/files/Research/papers/HELIX_CGO_2022.pdf).
