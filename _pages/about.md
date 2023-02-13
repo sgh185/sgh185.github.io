@@ -15,9 +15,8 @@ Mellon University. I am advised by Professors [Brandon Lucia](https://brandonluc
 and [Nathan Beckmann](https://www.cs.cmu.edu/~beckmann/). My graduate studies are supported 
 by the Department of Energy Computational Science Graduate Fellowship (DOE CSGF). 
 
-My research interests lie in compilers, code analyses and
-transformations, operating systems, computer architecture, and 
-the intersection of different layers of the systems stack. 
+My research interests lie in compilers, computer architecture, 
+reconfigurable computing, and cross-stack systems design.
 I'm currently working on programming models and compilation support 
 for energy-minimal coarse-grained reconfigurable arrays (CGRAs). 
 
