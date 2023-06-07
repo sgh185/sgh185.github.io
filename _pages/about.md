@@ -28,3 +28,5 @@ I was advised by [Peter Dinda](http://pdinda.org/) and
 [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/) and 
 was an active member of [NU Compilers Group](https://users.cs.northwestern.edu/~simonec/Team.html#Collaboration),
 [NU’s Prescience Lab](http://www.presciencelab.org/), and the NU Parallelism Group. 
+
+[CV](https://souradipghosh.com/files/cv.pdf).
