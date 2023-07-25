@@ -11,6 +11,10 @@ author_profile: true
 
 ## Publications
 
+- Nathan Serafin, **Souradip Ghosh**, Harsh Desai, Nathan Beckmann, Brandon Lucia.
+"Pipestitch: An Energy-Minimal Dataflow Architecture With Lightweight Threads."
+<em>ACM/IEEE International Symposium on Microarchitecture.</em> (MICRO '23). <em>To appear.</em>
+
 - Graham Gobieski, **Souradip Ghosh**, Marijn Heule, Todd C. Mowry, Tony Nowatzki, 
 Nathan Beckmann, Brandon Lucia. "RipTide: A Programmable, Energy-Minimal Dataflow 
 Compiler and Architecture." <em>ACM/IEEE International Symposium on Microarchitecture.</em>
