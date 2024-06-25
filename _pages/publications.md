@@ -13,12 +13,13 @@ author_profile: true
 
 - Nikhil Agarwal, Mitchell Fream, **Souradip Ghosh**, Brian C. Schwedock, Nathan Beckmann.
 "UDIR: Towards a Unified Compiler Framework for Reconfigurable Dataflow Architectures."
-<em>IEEE Computer Architecture Letters.</em> (CAL '24). <em>To appear.</em>
+<em>IEEE Computer Architecture Letters.</em> (CAL '24).
+[Paper](https://www.computer.org/csdl/journal/ca/2024/01/10356622/1SQHJEK7Hos).
 
 - Nikhil Agarwal, Mitchell Fream, **Souradip Ghosh**, Brian C. Schwedock, Nathan Beckmann.
 "UDIR: Towards a Unified Compiler Framework for Reconfigurable Dataflow Architectures."
 <em>2<sup>nd</sup> Workshop on Democratizing Domain-Specific Accelerators.</em> (WDDSA '23). 
-<em>To appear.</em>
+[Paper](https://www.cs.cmu.edu/~beckmann/publications/papers/2023.wddsa.udir.pdf).
 
 - Nathan Serafin, **Souradip Ghosh**, Harsh Desai, Nathan Beckmann, Brandon Lucia.
 "Pipestitch: An Energy-Minimal Dataflow Architecture With Lightweight Threads."
