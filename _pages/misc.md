@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Miscellaneous Items"
+title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
 ---
@@ -11,13 +11,13 @@ author_profile: true
 
 ## Recognitions
 
-- **Department of Energy Computational Science Graduate Fellowship (DOE CSGF) Recipient** (Mar '21)
-
-- 6X **NSF REU Fellowship Recipient** (Jun '19 -- Aug '21)
+- **Department of Energy Computational Science Graduate Fellowship (DOE CSGF)** (Mar '21 - Present)
 
 - **Honorable Mention -- CRA Outstanding Undergraduate Researcher** (Dec '20) 
 
 - **Outstanding Senior in CS -- Weinberg School of Arts and Sciences** (Jun '21)
+
+- **NSF REU Fellowship** (Jun '19 -- Aug '21)
 
 ## Teaching Experience 
 
@@ -32,21 +32,3 @@ author_profile: true
 
 - **Academic Coach/Mentor**, NU School of Education and Social Policy -- Evanston, 
 IL (Oct '17 -- Jun '19)
-
-## Work Experience 
-
-- **Lead Software Developer, IT Manager**, Karen Lynn + Associates Inc. -- Evanston, IL (Nov '18 -- Present). Find
-us [here](https://klabeautyllc.com). Other products: [KLA's portfolio](https://karenlynnmakeup.com).  
-
-- **Programming Aide**, NU Department of CS -- Evanston, IL (Apr '21 -- Jul '21)
-
-- **Front-End Developer**, Lurie Medical Research Center, Feinberg School of 
-Medicine -- Chicago, IL (Mar '19 -- Present)
-
-- **Public Computing Technical Aide**, Kellogg School of Management -- Evanston, 
-IL (Mar '19 -- Jun '19)
-
----
-
-[Archive](https://souradipghosh.com/archive-misc/).
-
