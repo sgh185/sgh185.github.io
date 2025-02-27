@@ -12,6 +12,11 @@ author_profile: true
 ## Publications
 
 - Nikhil Agarwal, Mitchell Fream, **Souradip Ghosh**, Brian C. Schwedock, Nathan Beckmann.
+"The Tyr Dataflow Architecture: Improving Locality by Taming Parallelism."
+<em>57<sup>th</sup> ACM/IEEE International Symposium on Microarchitecture.</em> (MICRO '24).
+[Paper](https://www.cs.cmu.edu/~beckmann/publications/papers/2024.micro.tyr.pdf).
+
+- Nikhil Agarwal, Mitchell Fream, **Souradip Ghosh**, Brian C. Schwedock, Nathan Beckmann.
 "UDIR: Towards a Unified Compiler Framework for Reconfigurable Dataflow Architectures."
 <em>IEEE Computer Architecture Letters.</em> (CAL '24).
 [Paper](https://www.computer.org/csdl/journal/ca/2024/01/10356622/1SQHJEK7Hos).

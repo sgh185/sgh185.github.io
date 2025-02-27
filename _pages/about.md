@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I'm a third-year PhD student in the Computer Science Department at Carnegie
+I'm a fourth-year PhD student in the Computer Science Department at Carnegie
 Mellon University advised by [Brandon Lucia](https://brandonlucia.com/)
 and [Nathan Beckmann](https://www.cs.cmu.edu/~beckmann/).
 I'm a member of the
