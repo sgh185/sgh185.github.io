@@ -12,7 +12,7 @@ author_profile: true
 ## Publications
 
 - Nikhil Agarwal, Mitchell Fream, **Souradip Ghosh**, Brian C. Schwedock, Nathan Beckmann.
-"The Tyr Dataflow Architecture: Improving Locality by Taming Parallelism."
+"The TYR Dataflow Architecture: Improving Locality by Taming Parallelism."
 <em>57<sup>th</sup> ACM/IEEE International Symposium on Microarchitecture.</em> (MICRO '24).
 [Paper](https://www.cs.cmu.edu/~beckmann/publications/papers/2024.micro.tyr.pdf).
 
