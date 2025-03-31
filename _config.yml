@@ -207,15 +207,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _miscellaneous
-  - scope:
-      path: ""
-      type: miscellaneous
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:

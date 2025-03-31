@@ -11,6 +11,12 @@ author_profile: true
 
 ## Publications
 
+- **Souradip Ghosh**, Graham Gobieski, Tom Jackson, Keyi Zhang, Brandon Lucia,
+Nathan Beckmann, Tony Nowatzki. 
+"NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures via Non-Uniform Processing-Element Access."
+<em>52<sup>nd</sup> ACM/IEEE International Symposium on Computer Architecture.</em> (ISCA '25).
+<em>To appear</em>.
+
 - Nikhil Agarwal, Mitchell Fream, **Souradip Ghosh**, Brian C. Schwedock, Nathan Beckmann.
 "The TYR Dataflow Architecture: Improving Locality by Taming Parallelism."
 <em>57<sup>th</sup> ACM/IEEE International Symposium on Microarchitecture.</em> (MICRO '24).
