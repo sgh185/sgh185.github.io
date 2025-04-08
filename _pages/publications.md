@@ -11,6 +11,12 @@ author_profile: true
 
 ## Publications
 
+- **Souradip Ghosh**, Yufei Shi, Brandon Lucia, Nathan Beckmann.
+"Ripple: Asynchronous Programming for Spatial Dataflow Architectures."
+<em>46<sup>th</sup> ACM SIGPLAN Conference on Programming Language Design and 
+Implementation.</em> (PLDI '25). 
+<em>To appear</em>.
+
 - **Souradip Ghosh**, Graham Gobieski, Tom Jackson, Keyi Zhang, Brandon Lucia,
 Nathan Beckmann, Tony Nowatzki. 
 "NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures via Non-Uniform Processing-Element Access."
