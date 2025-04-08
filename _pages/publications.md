@@ -83,7 +83,7 @@ Computing, Networking, Storage and Analysis (Supercomputing)</em>. (SC '20).
 - "Ripple: Asynchronous Programming for Spatial Dataflow Architectures."
 (<em>DOE CSGF Program Review</em>, July '24. Washington, D.C.)
 
--- "Ripple: Asynchronous Programming for Energy-Minimal Edge Devices."
+- "Ripple: Asynchronous Programming for Energy-Minimal Edge Devices."
 (<em>DOE CSGF Program Review</em>, July '23. Washington, D.C.)
 
 - "RipTide: A Programmable, Energy-Minimal Dataflow Compiler and Architecture."
