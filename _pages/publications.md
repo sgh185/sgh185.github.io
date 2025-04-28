@@ -14,8 +14,7 @@ author_profile: true
 - **Souradip Ghosh**, Yufei Shi, Brandon Lucia, Nathan Beckmann.
 "Ripple: Asynchronous Programming for Spatial Dataflow Architectures."
 <em>46<sup>th</sup> ACM SIGPLAN Conference on Programming Language Design and 
-Implementation.</em> (PLDI '25). 
-<em>To appear</em>.
+Implementation.</em> (PLDI '25). [Paper](https://souradipghosh.com/files/2025.pldi.ripple.pdf)
 
 - **Souradip Ghosh**, Graham Gobieski, Tom Jackson, Keyi Zhang, Brandon Lucia,
 Nathan Beckmann, Tony Nowatzki. 
