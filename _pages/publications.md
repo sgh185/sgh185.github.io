@@ -80,11 +80,11 @@ Computing, Networking, Storage and Analysis (Supercomputing)</em>. (SC '20).
 ## Talks and Presentations
 
 - "NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures 
-via Non-Uniform Processing-Element Access." <em>ISCA</em>, July '25.
+via Non-Uniform Processing-Element Access." <em>ISCA</em>, June '25.
 Tokyo, Japan. [Slides](https://souradipghosh.com/files/2025.isca.nupea.ppsx).
 
 - "Ripple: Asynchronous Programming for Spatial Dataflow Architectures."
-<em>PLDI</em>, July '25. Seoul, South Korea. [Slides](https://souradipghosh.com/files/2025.pldi.ripple.ppsx). 
+<em>PLDI</em>, June '25. Seoul, South Korea. [Slides](https://souradipghosh.com/files/2025.pldi.ripple.ppsx). 
 
 - "Ripple: Asynchronous Programming for Spatial Dataflow Architectures."
 <em>DOE CSGF Program Review</em>, July '24. Washington, D.C.
