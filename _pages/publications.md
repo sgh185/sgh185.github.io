@@ -20,7 +20,7 @@ Implementation.</em> (PLDI '25). [Paper](https://souradipghosh.com/files/2025.pl
 Nathan Beckmann, Tony Nowatzki. 
 "NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures via Non-Uniform Processing-Element Access."
 <em>52<sup>nd</sup> ACM/IEEE International Symposium on Computer Architecture.</em> (ISCA '25).
-<em>To appear</em>.
+[Paper](https://souradipghosh.com/files/2025.isca.nupea.pdf)
 
 - Nikhil Agarwal, Mitchell Fream, **Souradip Ghosh**, Brian C. Schwedock, Nathan Beckmann.
 "The TYR Dataflow Architecture: Improving Locality by Taming Parallelism."
@@ -78,6 +78,13 @@ Computing, Networking, Storage and Analysis (Supercomputing)</em>. (SC '20).
 [Paper](https://souradipghosh.com/files/ct-sc20.pdf). 
 
 ## Talks and Presentations
+
+- "NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures 
+via Non-Uniform Processing-Element Access." (<em>ISCA</em>, July '25.
+Tokyo, Japan).
+
+- "Ripple: Asynchronous Programming for Spatial Dataflow Architectures."
+(<em>PLDI</em>, July '25. Seoul, South Korea) 
 
 - "Ripple: Asynchronous Programming for Spatial Dataflow Architectures."
 (<em>DOE CSGF Program Review</em>, July '24. Washington, D.C.)
