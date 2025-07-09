@@ -11,16 +11,13 @@ author_profile: true
 
 ## Publications
 
-- **Souradip Ghosh**, Yufei Shi, Brandon Lucia, Nathan Beckmann.
-"Ripple: Asynchronous Programming for Spatial Dataflow Architectures."
-<em>46<sup>th</sup> ACM SIGPLAN Conference on Programming Language Design and 
-Implementation.</em> (PLDI '25). [Paper](https://souradipghosh.com/files/2025.pldi.ripple.pdf).
+1. **Ripple: Asynchronous Programming for Spatial Dataflow Architectures.** <em>PLDI '25.</em>\
+**Souradip Ghosh**, Yufei Shi, Brandon Lucia, Nathan Beckmann. [Paper](https://souradipghosh.com/files/2025.pldi.ripple.pdf).
 
-- **Souradip Ghosh**, Graham Gobieski, Tom Jackson, Keyi Zhang, Brandon Lucia,
-Nathan Beckmann, Tony Nowatzki. 
-"NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures via Non-Uniform Processing-Element Access."
-<em>52<sup>nd</sup> ACM/IEEE International Symposium on Computer Architecture.</em> (ISCA '25).
-[Paper](https://souradipghosh.com/files/2025.isca.nupea.pdf).
+2. **NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures via Non-Uniform 
+Processing-Element Access.** <em>ISCA '25.</em>\
+**Souradip Ghosh**, Graham Gobieski, Tom Jackson, Keyi Zhang, Brandon Lucia,
+Nathan Beckmann, Tony Nowatzki. [Paper](https://souradipghosh.com/files/2025.isca.nupea.pdf).
 
 - Nikhil Agarwal, Mitchell Fream, **Souradip Ghosh**, Brian C. Schwedock, Nathan Beckmann.
 "The TYR Dataflow Architecture: Improving Locality by Taming Parallelism."
